@@ -1,6 +1,8 @@
 # OS-MM-Linked-List-Practice
 Project for COP3503 Programming Fundamentals 2
 
+ASSIGNMENT:
+
 Write a C++ program that emulate the operating system’s responsibility of allocatingmemory to certain programs.  
 
 This will be a very simple page-based view of memorymanagement. 
